@@ -1,7 +1,9 @@
 Comments-Book
 =============
 
-You can leave your comments here
+You can leave your comments here.
+
+We advice you to use Chrome Browser.
 
 How to make this work:
 
